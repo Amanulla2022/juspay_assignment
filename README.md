@@ -1,4 +1,5 @@
 # Juspay Dashboard Assignment
+## [HOSTED LINK](https://juspay-amanulla.vercel.app/)
 
 This project is a **dashboard UI** built using **Next.js (App Router)** and **Tailwind CSS** by **Amanulla!**. It includes a paginated table of orders with search and filter functionality.
 
