@@ -38,5 +38,3 @@ This project is a **dashboard UI** built using **Next.js (App Router)** and **Ta
 - **Heroicons**
 - **Debounce utility** for search input
 
-## Component Structure
-
